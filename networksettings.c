@@ -1,4 +1,9 @@
 
+/*
+    NOTE : This settings idea is a first draft.
+           It needs a lot of changes in order to be useful.
+*/
+
 #include "network.h"
 
 #include <stdio.h>   // FILE      fputs()   fread()   fopen() printf()  fseek()  SEEK_END  SEEK_SET
